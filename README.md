@@ -1,6 +1,7 @@
 # Bitaxe-Font
 
 ### Bitaxe – Bitcoinized Font
+ <img src="https://github.com/BeeEvolved/bitaxe-font/blob/main/bitaxe.jpg" style="width: 50%;" >
 
 Inspired by the original **Bitaxe** font, we’re thrilled to unveil the **Bitaxe-Bittyaxe** font—a reimagined design crafted for the community. 
 
